@@ -158,6 +158,8 @@ typings/
 
 # DynamoDB Local files
 
+# macOS
+.DS_Store
 
 ## this project
 /WebRTC.framework
